@@ -1,6 +1,6 @@
 👊 G'Day, I'm Raymond Zeaiter, a full-stack web developer from Sydney, Australia.
 
-#### 📅 Now
+### 📅 Now
 
 - 🏗️ Building frontend projects for freelance clients
 - 🦆 [https://freeduckfinder.online](https://freeduckfinder.online) (*Personal Project*)
