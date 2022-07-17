@@ -14,6 +14,8 @@
 - 📖 [Web Portfolio](https://raymond-zeaiter.au)
 - ![Codewars](https://www.codewars.com/users/king-oldmate/badges/small)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=king-oldmate&theme=react&fire=DD2727)](https://git.io/streak-stats)
+
 <!---
 king-oldmate/king-oldmate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
