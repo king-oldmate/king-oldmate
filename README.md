@@ -4,6 +4,7 @@
 
 - 🏗️ Building frontend projects for freelance clients
 - 🦆 [https://freeduckfinder.online](https://freeduckfinder.online) (*Personal Project*)
+- 💡 [get HSC questions](https://gethscquestions.netlify.app/) (*Personal Project*)
 
 #### 😎 Bio
 - ⚙️ I use daily: ```.js```, ```.html```, ```.css```
