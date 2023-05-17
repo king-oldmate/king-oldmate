@@ -1,4 +1,4 @@
-👊 G'Day, I'm Raymond Zeaiter, a full-stack web developer from Sydney, Australia.
+<!-- 👊 G'Day, I'm Raymond Zeaiter, a full-stack web developer from Sydney, Australia.
 
 #### 📅 Now
 
@@ -21,3 +21,4 @@
 king-oldmate/king-oldmate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ -->
